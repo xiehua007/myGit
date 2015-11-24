@@ -1,2 +1,2 @@
-¿ËÂ¡µÄÏîÄ¿
+å…‹éš†çš„é¡¹ç›®
 https://github.com/abel533/Mybatis-Spring.git
